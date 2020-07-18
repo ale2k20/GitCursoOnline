@@ -1,0 +1,20 @@
+
+Aula 06:
+Git GitHub
+------------------
+
+    Comentários sobre atualização do curso HTML5 e CSS que foi criado em 2012 e laçado em 2013 onde o Professor Guanabara utilizava uma didática e agora está atualizando o curso e utilizado nova didática e novos exercícios, primeiramente lançado no ambiente EstudoNautas e depois no Curso em Vídeo, já na fase fial do curso.
+
+    Abrir o linux;
+    Baixar o Google Chrome no Ubuntu pelo firefox;
+    Abrir o terminal;
+        sudo apt update;
+        sudo apt upgrade;
+        sudo apt install git -y;
+        git --version;
+    Instalar o Google Chrome no Ubuntu pelo firefox;   
+    Baixar o Visual Studio Code;
+    Instalar o Visual Studio Code;
+    Comentários antes de baixar o GitDesktop for linux;
+    Existe um Cara chamado Brandan Foster pegou o projeto do GitHub Desktop for Windows e atraves de uma biblioteca chamado alectron, através de um fork do projeto e transfou o projeto que era for windows em versão for linux;
+    
